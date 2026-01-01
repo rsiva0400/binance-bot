@@ -1,0 +1,23 @@
+# Python
+# Requires Python >= 3.11
+
+# Async HTTP & concurrency
+aiohttp>=3.9.0
+
+# Binance (orders, account safety)
+binance-connector>=3.5.0
+
+# Database (Postgres / Supabase)
+asyncpg>=0.29.0
+supabase>=2.0.0
+
+# Configuration & typing
+pydantic>=2.6.0
+pydantic-settings>=2.2.1
+python-dotenv>=1.0.1
+
+# Logging
+structlog>=24.1.0
+
+# Time & timezone safety
+pendulum>=3.0.0
